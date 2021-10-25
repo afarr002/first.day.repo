@@ -1,0 +1,3 @@
+git fetch: similar to git pull, however git fetch only downloads files and changes from remote repo where git pull downloads them and merges them into your local repo.
+
+git merge: allows you to take independant lines of code created by different git branches and merge them into a single branch.
